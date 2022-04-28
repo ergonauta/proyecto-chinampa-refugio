@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto-chinampa-refugio/static/css/main.073c9b0a.css",
+    "main.js": "/proyecto-chinampa-refugio/static/js/main.0bab2337.js",
+    "static/js/787.855417eb.chunk.js": "/proyecto-chinampa-refugio/static/js/787.855417eb.chunk.js",
+    "static/media/logo.svg": "/proyecto-chinampa-refugio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyecto-chinampa-refugio/index.html",
+    "main.073c9b0a.css.map": "/proyecto-chinampa-refugio/static/css/main.073c9b0a.css.map",
+    "main.0bab2337.js.map": "/proyecto-chinampa-refugio/static/js/main.0bab2337.js.map",
+    "787.855417eb.chunk.js.map": "/proyecto-chinampa-refugio/static/js/787.855417eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bab2337.js"
+  ]
+}
